@@ -1,6 +1,6 @@
 Structure du fichier tasks.txt :
-
-Le fichier tasks.txt est utilisé pour stocker les tâches. Chaque tâche est enregistrée sous la forme :
+Le fichier tasks.txt est utilisé pour stocker les tâches.
+Chaque tâche est enregistrée sous la forme :
 DATE - [ ] DESCRIPTION
 Lorsque la tâche est marquée comme complétée, elle sera enregistrée sous la forme :
 DATE - [x] DESCRIPTION
